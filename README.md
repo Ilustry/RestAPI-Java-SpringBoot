@@ -13,5 +13,5 @@
 
 <h2>Ferramentas</h2>
 <p>
-  SpringBoot, JPA e Hibernate
+  Java, SpringBoot, JPA e Hibernate
 </ph>
